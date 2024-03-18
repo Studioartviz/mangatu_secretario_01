@@ -1,8 +1,7 @@
 {
  "name": "MANGATU SECRETÁRIO",
- "background_color": "#FFFFFF",
+ "start_url": "index.htm?installed=true",
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +39,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm?installed=true"
+ "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF"
 }
